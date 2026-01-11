@@ -1,1 +1,80 @@
-2.1
+HOW TO USE
+
+IMPORTANT
+If you are still struggling after following this tutorial, please refer to one of the following for help:
+
+Discord support server:
+https://discord.gg/H3KWyw5mBy
+
+YouTube tutorial channel:
+https://www.youtube.com/@23pulto
+
+READ THIS FIRST
+1.1. Do NOT run any DLL files.
+1.2. DLL files are not executables and are not meant to be opened.
+1.3. You must ONLY run: Nebula Executor.exe
+
+REQUIREMENTS
+2.1. Windows 10 or Windows 11 (64‑bit).
+2.2. Roblox must be installed and running
+2.3. Nebula Executor must be run as Administrator otherwise it may not work.
+2.4. Antivirus must be disabled or Nebula must be added to exclusions due to false positives.
+
+LAUNCHING NEBULA EXECUTOR
+3.1. Open Nebula Executor.exe.
+3.2. Press the attach button and wait for the executor to attach to the game.
+3.3. Join any game.
+
+ATTACHING / INJECTING Trouble Shooting
+4.3. If attaching fails, do the following:
+4.3.1. Close Roblox.
+4.3.2. Reopen Roblox and join a game.
+4.3.3. Reopen Nebula Executor.exe.
+4.3.4. Click ATTACH again.
+
+EXECUTING LUA SCRIPTS
+5.1. Paste your Lua script into the Script Editor.
+5.2. Select one of the script tabs (1 through 5).
+5.3. Click the EXECUTE button to run the script.
+
+SCRIPT TABS
+6.1. Nebula Executor v1.2 includes five built‑in script tabs.
+6.2. Each tab stores its own script separately.
+6.3. Switching tabs will not delete or overwrite scripts in other tabs.
+
+6.4. Recommended usage:
+6.4.1. Tab 1 – Main script
+6.4.2. Tab 2 – Auto or loop scripts
+6.4.3. Tab 3 – Utility scripts
+6.4.4. Tab 4 – Testing scripts
+6.4.5. Tab 5 – Backup scripts
+
+FEATURES
+7.1. Attach and execute system.
+7.2. Five‑tab Lua script editor.
+7.3. Roblox process detection.
+7.4. Status logging.
+7.5. Clean user interface with low system usage.
+
+COMMON ISSUES AND FIXES
+
+8.1. Nothing happens when opening a DLL file.
+8.1.1. This is expected behavior. DLL files must not be opened.
+
+8.2. Attach does not work.
+8.2.1. Roblox is not open.
+8.2.2. Wrong Roblox version is running.
+8.2.3. Nebula Executor is not running as Administrator.
+8.2.4. This Executor may be outdated to the current Roblox version.
+
+8.3. Execute does nothing.
+8.3.1. Script editor is empty.
+8.3.2. The script contains errors.
+8.3.3. The wrong script tab is selected.
+
+8.4. Antivirus removed Nebula Executor.exe.
+8.4.1. Restore the file from quarantine.
+8.4.2. Add Nebula Executor.exe to antivirus exclusions.
+8.4.3. Relaunch the executable.
+
+-Thank you for choosing Nebula Services
